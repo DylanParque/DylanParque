@@ -49,20 +49,10 @@
   <summary>Quote</summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
+    “Un error informático nunca es simplemente un fallo. Representa algo más grande. Un error de pensamiento. Eso es lo que te define.”
     <br><strong>Mr. Robot - Elliot Alderson</strong>
   </blockquote>
 </details>
-
-<details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
-
-
 
 </details>
 
