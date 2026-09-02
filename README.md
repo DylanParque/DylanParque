@@ -46,5 +46,18 @@
 
 </details>
 
+<br>
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Bottom of Pokeball" />
+</p>
+
+<div align="center">
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:tu-correo@email.com" target="_blank"><img src="https://shields.io" alt="Email" /></a>
+</div>
+
+<br>
+
 
 
