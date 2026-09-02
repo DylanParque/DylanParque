@@ -45,6 +45,7 @@
 </div>
 
 <details>
+	
   <summary>Quote</summary>
   <br>
   <blockquote>
