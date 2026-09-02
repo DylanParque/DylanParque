@@ -62,13 +62,13 @@
 
 <p align="center">
   <a href="mailto:dparquem@ulasalle.edu.pe" target="_blank">
-    <img src="https://shields.io" alt="Gmail" />
+    <img src="https://shields.io" alt="Gmail">
   </a>
-
   <a href="https://steamcommunity.com/profiles/76561199277262666/" target="_blank">
-    <img src="https://shields.io" alt="Steam" />
+    <img src="https://shields.io" alt="Steam">
   </a>
 </p>
+
 
 
 Last Edited on: 18/01/2024
