@@ -61,16 +61,13 @@
 </div>
 
 <p align="center">
-  <!-- Botón de Gmail: Cambia tu-correo@gmail.com por tu dirección real -->
-  <a href="dparquem@ulasalle.edu.pe" target="_blank">
+  <a href="mailto:dparquem@ulasalle.edu.pe" target="_blank">
     <img src="https://shields.io" alt="Gmail" />
   </a>
 
-  <!-- Botón de Steam: Cambia TU_ID_DE_STEAM por tu usuario real de Steam -->
-  <a href="[https://steamcommunity.com](https://steamcommunity.com/profiles/76561199277262666/)" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199277262666/" target="_blank">
     <img src="https://shields.io" alt="Steam" />
   </a>
 </p>
-
 
 Last Edited on: 18/01/2024
